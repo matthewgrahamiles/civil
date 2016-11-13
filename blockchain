@@ -1,0 +1,31 @@
+Transactions in the same "block" are considered to have happened at the same time, and transactions not yet in a "block" are considered "unconfirmed".
+
+Each node can group together transactions into a block and broadcast it to the network as a suggestion for what block should be next.
+
+The whole process can be broken down into 4 steps:
+
+1. Sourcing
+
+Sourcing is how we get our raw information in the first place. It's primary source material. 
+
+Fundamentally, there should be a low barrier to entry for sourcing. There should be a compelling reason to participate, probably motivated by money but also something else just as important. And somehow, the system should reward greater enagagement with even greater reward.
+
+All content sourced needs to be validated. I used to say verify, but then revised this because the funny thing about truth is that there can never be just one. A quest to verify everything is a fool's errand. This is a rather bold assertion, and one that suggests a big scary genie being let out of a lamp right now. We must be prepared for the fact that the future is going to be weird, and though it'll have been our creation, it will have a lifetime all its own. This will run away from us in the end.
+
+2. Editing
+
+That said, the editors mine the fresh content for false claims, plagiarism, libel and bullying. If the piece passes those tests, it's considered valid and published to the record immutably from there.
+
+Editorial guidelines are open-sourced with proposed changes reviewed weekly, deliberated by internal members publicly and decided through shareholder vote. 
+
+3. Analyzing
+
+Polling stories and trend analysis. Research-driven opinion articles and public opinion spotlights.
+
+4. Investigating
+
+Any journalist worth her/his salt feels called to chase a lead, even (or especially) the fishy ones. Digging up dirt is serious business, and you need tools that keep you safe.
+
+Civil enables private story-building, anonymous-source interviews and valid credentials at publication.
+
+
